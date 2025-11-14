@@ -1,41 +1,78 @@
-# Python, Knowledge & Disruption – Article
+# Scientific, Technological & Disruptive Knowledge – Python & Innovation
 
-This repository contains a standalone HTML article about how Python connects **scientific**, **technological** and **disruptive** knowledge in the digital era.
+This repository hosts a standalone HTML article exploring how **Python** connects scientific knowledge, technological development, and disruptive innovation in the digital era.
 
-The article is written for students, professionals and enthusiasts who want a conceptual and practical view of Python's role in modern innovation.
+The article is designed as a **portfolio-friendly publication**, demonstrating both conceptual understanding and clear technical communication.
 
 ---
 
-## Article Overview
+## View the Article
 
-**Title:** Scientific, Technological & Disruptive Knowledge – How Python Accelerates Innovation in the Digital Era  
-**Author:** Nathalia Rüesch Neiva  
+**Live Website (GitHub Pages):**  
+ https://nathaliarueesch.github.io/python-knowledge-disruption-article/
+
+---
+
+## About the Article
 
 The article discusses:
 
 - How scientific knowledge has become increasingly computational  
-- How Python is used to transform scientific ideas into technological solutions  
-- How Python enables disruptive innovation through AI, automation and data-driven systems  
-- Why Python is a strategic skill for future professionals in Data Science and Technology  
+- How Python transforms theoretical insights into real technological solutions  
+- Python’s role in disruptive innovation (AI, automation, intelligent systems)  
+- Why Python is a strategic skill for modern professionals  
+
+Written by **Nathalia Rüesch Neiva**, this piece reflects her learning path in:
+
+- Data Science  
+- Behavioral Analysis  
+- Scientific and technological thinking  
+- Conceptual and academic writing  
 
 ---
 
 ## Repository Structure
 
-- `index.html` – main article page (styled HTML with CSS included)
-- `LICENSE` – project license (MIT)
+| File         | Description                               |
+|--------------|-------------------------------------------|
+| index.html   | Main article (HTML + internal CSS)        |
+| README.md    | Repository documentation                  |
+| LICENSE      | MIT License                               |
 
-(Optional: you can add assets such as images or banners in an `assets/` folder.)
 
 ---
 
-## Viewing the Article
+## GitHub Pages Setup
 
-You can read the article in two ways:
+This project uses GitHub Pages:
 
-### 1. Locally
+- **Source:** `main`  
+- **Folder:** `/ (root)`  
+- Build type: *Static HTML*  
 
-Open the file directly in your browser:
+The article loads automatically whenever `index.html` is updated.
 
-```text
-index.html
+---
+
+## Technologies Used
+
+- **HTML5**
+- **CSS3**
+- Responsive design
+- No frameworks — fully standalone file
+
+---
+
+## Author
+
+**Nathalia Rüesch Neiva**  
+Data Science & Behavioral Analysis Student  
+Based in Bern, Switzerland  
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.  
+You are free to reference, share, or adapt the contents.
+
